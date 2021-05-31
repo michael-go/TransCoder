@@ -179,5 +179,5 @@ if __name__ == '__main__':
             input, lang1=params.src_lang, lang2=params.tgt_lang, beam_size=params.beam_size)
 
     for out in output:
-        print("=" * 20)
+        # print("=" * 20)
         print(out)
