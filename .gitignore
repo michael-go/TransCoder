@@ -1,2 +1,6 @@
 venv
 .env
+__pycache__
+
+data/model_1.pth
+data/model_2.pth
